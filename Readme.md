@@ -129,15 +129,15 @@ merch_zipcode : Merchant postal code
 
 ### XGBoost Model(Without Class Weights)
 
-![XGBoost (without class weights)](images\xgboost_withoutclass.png)
+![XGBoost (without class weights)](images/xgboost_withoutclass.png)
 
 ### XGBoost Model(With Class Weights)
 
-![XGBoost (with class weights)](images\xgboost_withclass.png)
+![XGBoost (with class weights)](images/xgboost_withclass.png)
 
 ### Artificial Neural Network (ANN) -  Feed Forward Neural Network
 
-![ANN](images\ANN.png)
+![ANN](images/ANN.png)
 
 
 
